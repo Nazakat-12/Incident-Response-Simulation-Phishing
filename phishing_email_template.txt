@@ -1,0 +1,23 @@
+Title: Phishing Simulation — Benign Training Email (Template)
+
+From: training@company.local
+Reply-To: security-team@company.local
+To: [target_user_email]
+Subject: Mandatory: Security Awareness Update — Please read
+
+Body (Plain Text):
+
+Hi [FirstName],
+
+As part of our ongoing security awareness program, please review the attached training summary and confirm completion.
+
+Document: Security_Awareness_Training.pdf
+Link: http://labserver.local/training/Security_Awareness_Training.pdf
+
+Note:
+- This email is part of an authorized internal simulation and is NOT malicious.
+- The link points to an internal lab server only.
+- If you are unsure, please report the email to security@company.local rather than clicking.
+
+Regards,
+Security Training Team
